@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vH6sfmOmgIZYVU4oGzatjIpERtfUfr1VqCZkvfRI9iqhBKSJvdsrimZaBWsh6iiqiOWYx3dEYDpQZhfZbv1hdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\כבי\\תשפה\\net core\\CLI-in_.NET\\fib\\fib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
